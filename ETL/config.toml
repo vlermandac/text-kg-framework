@@ -1,0 +1,3 @@
+[general]
+model = "gpt-4o-mini"
+chunks = 100
